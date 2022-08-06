@@ -1,0 +1,25 @@
+.wrapper {
+  position: relative;
+}
+
+.box {
+  position: absolute;
+  top: 0;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  opacity: 0.4;
+}
+
+.filter {
+  filter: blur(5px);
+}
+
+.innerText {
+  color: #c00;
+}
+
+.outerText {
+  color: #04c
+}
